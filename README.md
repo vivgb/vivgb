@@ -6,7 +6,7 @@
 <pre>
     💼 Estudante do SENAI em DS
     💻 Python • JavaScript • PHP • Banco de dados
-    🎮 Musica • Jogos • Code • Arte
+    🎮 Musica • Jogos • Anime • Code • Arte
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
