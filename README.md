@@ -3,7 +3,7 @@
 
 <br><br>
 <pre>
-    💼 Estudante do SENAI em DS
+    💼 Estudante de Engenharia de software - Univille
     💻 Python • JavaScript • PHP • Banco de dados
     🎮 Musica • Jogos • Anime • Code • Arte
 </pre>
